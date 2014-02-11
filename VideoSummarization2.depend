@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1367823022 source:c:\users\prateek\desktop\opencv\videosummarization2\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1367823022 source:c:\users\prateek\dropbox\6th sem\mini-project\videoshotdetection and summarization (iit035,iit039,iit076)\videosummarization2\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
+1367823022 source:c:\users\prateek\dropbox\6th sem\mini-project\videoshotdetection and summarization (iit2010042)\videosummarization2\main.cpp
+	<iostream>
+	<cv.h>
+	<highgui.h>
+
