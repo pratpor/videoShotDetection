@@ -8,3 +8,4 @@ After setting this up, open "VideoSummarization2.cbp" in codeblocks.
 And bingo. There you are. Build the project. Provide the filename through command line like one.avi or two.avi
 
 Rest, play with the thresholds according to your needs.
+All the best
